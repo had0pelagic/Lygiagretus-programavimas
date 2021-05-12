@@ -1,0 +1,109 @@
+---------------------------------------INPUT------------------------------------------
+|Name                Year                Grade                                     |
+--------------------------------------------------------------------------------------
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+|Antone              2                   99.12                                     |
+|Ingrid              1                   99.12                                     |
+50
+----------------------------------------OUTPUT----------------------------------------
+|Name                Year                Grade                  Hash sum                 |
+--------------------------------------------------------------------------------------
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+|Antone              2                     99.12                  12                     |
+|Ingrid              1                     99.12                  12                     |
+50
+--------------------------------------------------------------------------------------
