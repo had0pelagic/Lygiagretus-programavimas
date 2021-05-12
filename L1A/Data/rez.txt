@@ -1,0 +1,103 @@
+---------------------------------------INPUT-------------------------------------------------------
+Antone                              81.12                              2
+Ingrid                              81.12                              1
+Benjy                               81.12                              8
+Noe                                 81.12                              6
+Todd                                81.12                              5
+Forester                            81.12                              6
+Ameline                             81.12                              7
+Deane                               81.12                              8
+Pansie                              81.12                              9
+Shannon                             81.12                             10
+Peg                                 81.12                             11
+Jere                                10.12                             12
+Giorgio                             99.12                             13
+Kasper                              81.12                             14
+Emmit                               70.12                             15
+Darsie                              81.12                             16
+Jacquette                           81.12                             17
+Keen                                81.12                             18
+Jeanelle                            95.12                             19
+Eveline                             81.12                             20
+Agosto                              81.12                             21
+Alice                               81.12                             22
+Gard                                81.12                             23
+Bella                               81.12                             24
+Nerte                               81.12                             25
+Francklin                           81.12                             26
+Dominga                             81.12                             27
+Noelle                              81.12                             28
+Seth                                81.12                             29
+Leonardo                            81.12                             30
+Cornie                              99.12                             31
+Ashlen                              81.12                             32
+Durward                            842.12                             33
+Shantee                             79.12                             34
+Alayne                              81.12                             35
+Davidde                             81.12                             36
+Clemmie                             81.12                             37
+Franni                              94.12                             38
+Jacquenetta                         81.12                             39
+Normand                             81.12                             40
+Pace                                81.12                             41
+Bobette                              88.9                             42
+Cheston                             81.12                             43
+Maritsa                             69.12                             44
+Helenelizabeth                      69.12                             45
+Allard                              69.12                             46
+Chelsy                              81.12                             47
+Gray                                69.12                             48
+Xenos                               81.12                              4
+Deva                                81.12                             50
+---------------------------------------OUTPUT------------------------------------------------------
+Ingrid               1          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Antone               2          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Xenos                4          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Todd                 5          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Forester             6          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Noe                  6          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Ameline              7          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Deane                8          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Benjy                8          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Pansie               9          81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Shannon              10         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Peg                  11         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Jere                 12         10.12                lWKrr6XJsziDSqcse7CFxQ==
+Giorgio              13         99.12                C9OxwBCes2a8CZJFs0LfKw==
+Kasper               14         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Emmit                15         70.12                e+QXLEPR94sx+bIQzbgFgg==
+Darsie               16         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Jacquette            17         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Keen                 18         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Jeanelle             19         95.12                1XSEvJvMF11HJPKNpGvtMg==
+Eveline              20         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Agosto               21         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Alice                22         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Gard                 23         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Bella                24         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Nerte                25         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Francklin            26         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Dominga              27         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Noelle               28         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Seth                 29         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Leonardo             30         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Cornie               31         99.12                C9OxwBCes2a8CZJFs0LfKw==
+Ashlen               32         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Durward              33         842.12               icY2/7pjUgSMUYEVKkSNWg==
+Shantee              34         79.12                bjE6lyWJyGPsNfBXvBHVLA==
+Alayne               35         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Davidde              36         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Clemmie              37         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Franni               38         94.12                wlSzy56/YTQEslm9DX2IMA==
+Jacquenetta          39         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Normand              40         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Pace                 41         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Bobette              42         88.9                 gh0SsHuI0Pzz8DD4/TA5Rg==
+Cheston              43         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Maritsa              44         69.12                WVVvEg9KIJSFIe/FDi8HkQ==
+Helenelizabeth       45         69.12                WVVvEg9KIJSFIe/FDi8HkQ==
+Allard               46         69.12                WVVvEg9KIJSFIe/FDi8HkQ==
+Chelsy               47         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+Gray                 48         69.12                WVVvEg9KIJSFIe/FDi8HkQ==
+Deva                 50         81.12                +bmrC4qclKLRkPz4RGaKdQ==
+---------------------------------------------------------------------------------------------------
